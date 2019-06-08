@@ -1,6 +1,10 @@
 # -
 关于深度学习的论文及部分阅读笔记
 
+**[Learning both Weights and Connections for Efficient
+Neural Networks](https://arxiv.org/pdf/1506.02626.pdf)**
+
+剪枝的详细实现
 
 **[EIE: Efficient Inference Engine on Compressed Deep Neural Network](https://arxiv.org/abs/1602.01528)**
 
@@ -14,5 +18,5 @@
 
 稠密-稀疏-稠密训练
 
-上述三篇论文的视频讲解：https://www.youtube.com/watch?v=vouEMwDNopQ
+上述四篇论文的视频讲解：https://www.youtube.com/watch?v=vouEMwDNopQ
 
